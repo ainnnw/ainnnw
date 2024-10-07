@@ -1,4 +1,4 @@
-## Hi there, I'm Muhammad Ainul Wahib 👋
+## Hi Every One, I'm Muhammad Ainul Wahib 👋
 I'm a Data Analyst and Web Developer with a focus on Python, Machine Learning, and AI.
 
 ## 🛠️ Tech Stack
