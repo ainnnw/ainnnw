@@ -20,7 +20,7 @@ I'm a Data Analyst and Web Developer with a focus on Python, Machine Learning, a
 - **Matplotlib**: Creating basic and advanced plots for exploratory data analysis.
 - **Seaborn**: Heatmaps, regression plots, and statistical visualizations.
 - **Plotly**: Interactive visualizations like 3D plots, geographic maps.
-- **Tableau**: Building comprehensive dashboards and business reports.
+- **Tableau**, **Microsoft Power BI** and ***Looker Studio** : Building comprehensive dashboards and business reports.
 
 ### 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/muhammad-ainul-wahib-b540a9257/)
