@@ -12,7 +12,7 @@ I'm a Data Analyst and Web Developer with a focus on Python, Machine Learning, a
   - Tableau
   - Looker Studio
   - Microsoft Power BI
-- **Frontend Development**: Bootstrap
+- **Frontend Development**: Html, Css, Js & Bootstrap
 - **Data Analysis**: Python, Excel
 - **Database Management**: SQL
 
